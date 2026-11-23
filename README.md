@@ -14,7 +14,7 @@ I build and maintain .NET/C# production systems, keep CI and tests healthy, and 
 | Project | What it is | Tech |
 | --- | --- | --- |
 | [Learning Corner](https://github.com/Tuominen04/learning-corner) | Offline-first desktop app for source-backed notes: APA 7 citations, parallel texts, conflict-safe backups | Rust · Tauri · TypeScript |
-| [AI Workspace](https://github.com/Tuominen04/ai-workspace) | Local AI workspace: a model on your own machine answers questions about your project notes, nothing leaves the computer | Ollama · Fedora |
+| [AI Workspace](https://github.com/Tuominen04/ai-workspace) | Local AI workspace: a model on your own machine answers questions about your project notes, nothing leaves the computer | Rust · Ollama |
 | [ESP32 Smart Light](https://github.com/Tuominen04/esp32-smartlight) | Firmware with BLE setup, Wi-Fi, HTTP API, NVS storage and OTA updates, plus a [mobile app](https://github.com/Tuominen04/idf-light-controller) to control it | C · ESP-IDF · React Native |
 
 ## Skills
